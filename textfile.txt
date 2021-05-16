@@ -1,0 +1,3 @@
+Detta är första raden i file och här presenterar jag mitt namn och favoritglass:
+Hej jag heter Åke och gillar glass med chokladkross i - mums!
+------------------------------------------------------------
