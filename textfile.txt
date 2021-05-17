@@ -15,6 +15,9 @@ Detta är en liten text där jag presenterar namn och favoritfärg:
 Mitt fullständiga namn är Batoul Yaghoubi och jag gillar rosa.
 ---------------------------------------------------------------------------
 Hej jag heter Marcus, dricker rivet kaffe.
+---------------------------------------------------------------------------
+detta är andra brunch i labb 6 tack för er.
+---------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 Hej, Jennifer heter jag och jag gillar kaffe och sushi
 ----------------------------------------------------------------------------
@@ -23,7 +26,7 @@ Jag tycker att popcorn med smör är helt fantastiskt.
 ----------------------------------------------------------------------------
 Mitt namn är Oskar och jag gillar pizza! Detta är mitt första inlägg
 ---------------------------------------------------------------------------
-Hej p� er jag heter majid och gillar gymma!
+Hej p� er jag heter majid och gillar gymma!
 ---------------------------------------------------------------------------
 Solvej Lüdeking here - Flädlesuppe tops both ice cream and flygande jakob easily. 
 ----------------------------------------------------------------------------
