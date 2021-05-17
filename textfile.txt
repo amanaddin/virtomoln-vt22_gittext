@@ -14,5 +14,5 @@ Batoul skrev "test.test.ett" i sitt första inlägg (korrigerat av Åke)
 Detta är en liten text där jag presenterar namn och favoritfärg:
 Mitt fullständiga namn är Batoul Yaghoubi och jag gillar rosa.
 ---------------------------------------------------------------------------
-Hej jag heter Marcus, dricker rivet kaffe.
+Hej jag heter Marcus, dricker rivet kaffe...
 ---------------------------------------------------------------------------
