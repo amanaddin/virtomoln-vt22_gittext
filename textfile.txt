@@ -17,9 +17,6 @@ Mitt fullständiga namn är Batoul Yaghoubi och jag gillar rosa.
 Hej jag heter Marcus, dricker rivet kaffe.
 ---------------------------------------------------------------------------
 <<<<<<< HEAD
-Detta är en text där jag presenterar namn och favoritmat:
-Hej jag heter Melvin, och jag gillar pizza..
----------------------------------------------------------------------------
 =======
 Hej, Jennifer heter jag och jag gillar kaffe och sushi
 ----------------------------------------------------------------------------
@@ -30,3 +27,7 @@ Hej p� er jag heter majid och gillar gymma!
 Solvej Lüdeking here - Flädlesuppe tops both ice cream and flygande jakob easily. 
 ----------------------------------------------------------------------------
 >>>>>>> branch 'master' of https://gitlab.com/ake-wallin-hig/virtomoln-vt21_gittext.git
+------------------------------------------------------------------------------------
+Detta är en text där jag presenterar namn och favoritmat:
+Hej jag heter Melvin, och jag gillar pizza..
+---------------------------------------------------------------------------
