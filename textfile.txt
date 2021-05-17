@@ -14,6 +14,21 @@ Batoul skrev "test.test.ett" i sitt första inlägg (korrigerat av Åke)
 Detta är en liten text där jag presenterar namn och favoritfärg:
 Mitt fullständiga namn är Batoul Yaghoubi och jag gillar rosa.
 ---------------------------------------------------------------------------
+<<<<<<< HEAD
 Hej jag heter Marcus, dricker rivet kaffe...
 ---------------------------------------------------------------------------
 Marcus igen, dricker svart rivet kaffe..
+=======
+Hej jag heter Marcus, dricker rivet kaffe.
+---------------------------------------------------------------------------
+Hej, Jennifer heter jag och jag gillar kaffe och sushi
+----------------------------------------------------------------------------
+Mitt namn är Oskar och jag gillar pizza! Detta är mitt första inlägg
+---------------------------------------------------------------------------
+Hej p� er jag heter majid och gillar gymma!
+---------------------------------------------------------------------------
+Solvej Lüdeking here - Flädlesuppe tops both ice cream and flygande jakob easily. 
+----------------------------------------------------------------------------
+hello guys lets purge/Majid :)
+>>>>>>> branch 'master' of https://gitlab.com/ake-wallin-hig/virtomoln-vt21_gittext.git
+Marcus igen, kaffe kaffe..
