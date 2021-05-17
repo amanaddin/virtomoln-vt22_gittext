@@ -5,5 +5,7 @@ Här har jag nu ändrat lite i filen (denna rad) via en Branch (ÅkesFirstBranch
 Detta är en liten text där jag presenterar namn och favoritmat:
 Mitt fullständiga namn är Emil Gustav Bergman och jag gillar Flygande Jacob!
 ----------------------------------------------------------------------------
+Detta är en testÅke som bara vill sabba för vanliga Åke he he....
+----------------------------------------------------------------------------
 Åke meddelar också att han gillar att åka hoj :-) (mitt andra inlägg)
 ----------------------------------------------------------------------------
