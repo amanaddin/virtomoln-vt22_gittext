@@ -20,3 +20,4 @@ Hej, Jennifer heter jag och jag gillar kaffe och sushi
 ----------------------------------------------------------------------------
 Mitt namn är Oskar och jag gillar pizza! Detta är mitt första inlägg
 ---------------------------------------------------------------------------
+Detta är mitt andra inlägg /Oskar
