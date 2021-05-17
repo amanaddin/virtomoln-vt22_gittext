@@ -31,6 +31,15 @@ Hej p� er jag heter majid och gillar gymma!
 Solvej Lüdeking here - Flädlesuppe tops both ice cream and flygande jakob easily. 
 ----------------------------------------------------------------------------
 hello guys lets purge/Majid :)
+<<<<<<< HEAD
+---------------------------------------------------------------------------
+Hej detta är Melvin och jag gillar pizza
+---------------------------------------------------------------------------
+=======
+----------------------------------------------------------------------------
+Solvej Lü - andra inlägg. En av mina 2 katter behöver en katt-software update.
+----------------------------------------------------------------------------
+>>>>>>> branch 'master' of https://gitlab.com/ake-wallin-hig/virtomoln-vt21_gittext.git
 ---------------------------------------------------------------------------
 Hej detta är Melvin och jag gillar pizza
 ---------------------------------------------------------------------------
