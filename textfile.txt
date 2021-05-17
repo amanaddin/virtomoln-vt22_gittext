@@ -52,7 +52,14 @@ Detta är mitt första inlägg //19anha18
 -----------------------------------------------------------------------------
 Hej igen! Nu gör jag min andra ändring i filen /Christoffer
 -----------------------------------------------------------------------------
+<<<<<<< HEAD
 Hallå? Detta är Malte. Ostkaka är viktigt 
 ----------------------------------------------------------------------------- 
+Hallå? Detta är Malte. Ostkaka är viktigt
+-----------------------------------------------------------------------------
+Tjerna! Här kommer Christoffer och gör en liten ändring. Jag håller med Malte ostkaka är mycket viktigt.
+-----------------------------------------------------------------------------
+Jesper grohp första inlägg.
+-----------------------------------------------------------------------------
 Jag heter Max och jag gillar ej gurka
 -----------------------------------------------------------------------------
