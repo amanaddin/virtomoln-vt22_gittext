@@ -15,7 +15,7 @@ Detta är en liten text där jag presenterar namn och favoritfärg:
 Mitt fullständiga namn är Batoul Yaghoubi och jag gillar rosa.
 -----------------------------------------------------------------------------
 Hej jag heter Marcus, dricker rivet kaffe...
-------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------
 detta är andra brunch i labb 6 tack för er.
 ---------------------------------------------------------------------------
 Hej, Jennifer heter jag och jag gillar kaffe och sushi
@@ -34,8 +34,6 @@ hello guys lets purge/Majid :)
 Jessica Astorsson vill hellre skriva en till text om popcorn.
 Popcorn doppade i choklad är nämligen också helt fantastiskt.
 ----------------------------------------------------------------------------
-hello guys lets purge/Majid :)
----------------------------------------------------------------------------
 Hej detta är Melvin och jag gillar pizza
 ----------------------------------------------------------------------------
 Solvej Lü - andra inlägg. En av mina 2 katter behöver en katt-software update.
@@ -51,9 +49,6 @@ Hallå hallå! Det är jag som är Christoffer. Git är coolt.
 Detta är mitt första inlägg //19anha18
 -----------------------------------------------------------------------------
 Hej igen! Nu gör jag min andra ändring i filen /Christoffer
------------------------------------------------------------------------------
-<<<<<<< HEAD
-Hallå? Detta är Malte. Ostkaka är viktigt 
 ----------------------------------------------------------------------------- 
 Hallå? Detta är Malte. Ostkaka är viktigt
 -----------------------------------------------------------------------------
@@ -80,14 +75,15 @@ Hej, detta är mitt andra inlägg / Asaad Al-Hadeethi.
 Husain is here , with the First Universal Comment.
 -----------------------------------------------------------------------------
 Husain is here for the Second Time!!!!
-<<<<<<< HEAD
 -------------------------------------------------------------------------------
 Hej! Detta har redigerats av Jalil som gillar spela fotboll!!
 -----------------------------------------------------------------------------------
 Hej! Tomas här! 
+--------------------------------------------------------------------------------
 Hej I AM BACK /MAJID
 -----------------------------------------------------------------------------------
 Hej! Detta är jalils andra inlägg
+----------------------------------------------------------------------------------
 Hej igen tomas här mitt andra inlägg
 -----------------------------------------------------------------------------------
 Hej! Emils andra inlägg!
