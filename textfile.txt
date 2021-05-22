@@ -110,6 +110,57 @@ My third thingy!!! // Miki
 ---------------------------------------------------------------------------
 Mitt andra inlägg / Pizza-Melvin
 ---------------------------------------------------------------------------
+<<<<<<< HEAD
 Jag har en ny granne som skaffa sig en katt. Hon pratar med katten som om
 katten förstod henne. Jag berätta det för min hund och vi
 garva ihjäl oss nu!!/
+=======
+My fourth thingy xD // Miki
+---------------------------------------------------------------------------
+hej igen ^^ // Ahmad Alnaimi <3 
+---------------------------------------------------------------------------
+bry er inte om den förra// Ahmad Alnaimi
+---------------------------------------------------------------------------
+Hej jag heter Nikolas och slurpar på kaffe
+---------------------------------------------------------------------------
+hej Ahmad igen^^
+---------------------------------------------------------------------------
+Detta är min andra branch // Nikolas
+---------------------------------------------------------------------------
+hej, det här är min andra branch, tror jag har gjort fel tidigare// Ahmad Alnaimi
+---------------------------------------------------------------------------
+Detta är Julies första branch.
+---------------------------------------------------------------------------
+hej, min tredje branch, det här är faktiskt kul//Ahmad Alnaimi
+---------------------------------------------------------------------------
+Hej igen! Mitt tredje branch / Asaad Al-Hadeethi.
+---------------------------------------------------------------------------
+Hej igen! Mitt tredje Branch / Majid Mohammadi.
+---------------------------------------------------------------------------
+Hej igen! Mitt fj�rdje Branch / Majid Mohammadi.
+----------------------------------------------------------------------------
+Hej! detta är rätta sätt att göra labben /Jalil Mohammad Reza
+---------------------------------------------------------------------------
+don't drink and drive /Majid
+---------------------------------------------------------------------------
+<<<<<<< HEAD
+don't eat lots of eggs!!! /Majid
+---------------------------------------------------------------------------
+=======
+Detta är min andra inläggg /Jalil
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+don't eat lots of eggs!!! /Majid
+---------------------------------------------------------------------------
+why it doesn't work right ! /Majid
+----------------------------------
+esp32 huzza32 feather /Majid
+
+
+
+
+good bye!
+------------------------------------------ 
+Jalils igen här 
+-------------------------------------
+>>>>>>> branch 'master' of https://gitlab.com/ake-wallin-hig/virtomoln-vt21_gittext.git
