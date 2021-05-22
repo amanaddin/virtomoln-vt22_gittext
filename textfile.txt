@@ -2,3 +2,4 @@ Detta är första raden i file och här presenterar jag mitt namn och favoritgla
 Hej jag heter Åke och gillar glass med chokladkross i - mums!
 Här har jag nu ändrat lite i filen (denna rad) via en Branch (ÅkesFirstBranch) och sedan mergat ihop det med master.
 ------------------------------------------------------------
+JAPP/// Batoul
