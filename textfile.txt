@@ -148,4 +148,13 @@ Detta är min andra inläggg /Jalil
 don't eat lots of eggs!!! /Majid
 ---------------------------------------------------------------------------
 why it doesn't work right ! /Majid
+----------------------------------
 >>>>>>> refs/heads/jalilsandra
+-------------------------------------------
+esp32 huzza32 feather /Majid
+
+
+
+
+good bye!
+------------------------------------------ 
