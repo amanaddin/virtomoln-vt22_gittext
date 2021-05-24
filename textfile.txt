@@ -193,5 +193,7 @@ daniel 2:a
 ----------------------------
 Sebbes fÃ¶rsta branch
 -------------------------------------------------------
-Hej! Micke här! Jag gillar glass! Gött som.... MMMMM!
+Hej! Micke hï¿½r! Jag gillar glass! Gï¿½tt som.... MMMMM!
+-------------------------------------------------------
+Filips tredje branch
 -------------------------------------------------------
