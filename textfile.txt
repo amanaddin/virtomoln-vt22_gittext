@@ -224,5 +224,9 @@ Jonas först branch
 Jalil is back again 
 ------------------------------------
 Jonas andra branch och jag gillar att äta gifflar
+<<<<<<< HEAD
 -------------------------------------
 Åke är tillbaka för att ändra lite i master.. :-)
+=======
+-----------------------------------------------------
+Jonas tredje branch och jag gillar att dricka kaffe
